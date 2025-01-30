@@ -84,8 +84,8 @@ The system is based on the following schema: `library_management`. Below are the
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/SwarnaSunapral/SQL-Projects.git
-   cd SQL-Projects
+   git clone https://github.com/SwarnaSunapral/Library_Management.sql
+   cd Library_Management.sql
 
    ```
 
